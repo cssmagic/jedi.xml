@@ -12,8 +12,8 @@
 1. Fork 本项目并克隆到本地（或 [单独下载](https://raw.githubusercontent.com/cssmagic/jedi.xml/master/jedi.xml) 最新版的 `jedi.xml` 文件）。
 
 2. 检查你的操作系统类型，把 `jedi.xml` 文件复制到以下相应路径（如果已存在同名文件则覆盖）：
-    * Mac OS X： `~/Library/Preferences/WebIde{version}/filetypes`
-    * Windows 7： `C:\Users\{your_name}\.WebIde{version}\config\filetypes`
+    * Mac OS X： `~/Library/Application Support/WebIde{version}/filetypes`
+    * Windows 7+： `C:\Users\{your_name}\.WebIde{version}\config\filetypes`
     * Windows XP： `C:\Documents and Settings\{your_name}\.WebIde{version}\config\filetypes`
 
 3. 重新启动 IDE，即可。
