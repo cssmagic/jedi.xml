@@ -22,7 +22,7 @@
 
 1. 进入 IDE 的 `Preference` → `Editor` → `Colors & Fonts` 面板。
 
-2. 根据你自己的喜好，调整 `General`、`Language Defaults` 和 `Custom` 的设置，以获得更好的代码着色效果。
+2. 根据你自己的喜好，调整 `General`、`Language Defaults` 和 `Custom` 的设置，以获得更好的代码着色效果（详情参见 [此文档](https://github.com/cssmagic/jedi.xml/issues/2)）。
 
 ***
 
