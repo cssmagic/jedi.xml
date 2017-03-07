@@ -13,8 +13,8 @@
 
 2. 检查你的操作系统类型，把 `jedi.xml` 文件复制到以下相应目录（如果目录不存在则新建，如果已存在同名文件则覆盖）：
     * Mac OS X： `~/Library/Preferences/{ide_name}{version}/filetypes`
-    * Windows 7+： `C:\Users\{your_name}\.WebIde{version}\config\filetypes`
-    * Windows XP： `C:\Documents and Settings\{your_name}\.WebIde{version}\config\filetypes`
+    * Windows 7+： `C:\Users\{your_name}\.{ide_name}{version}\config\filetypes`
+    * Windows XP： `C:\Documents and Settings\{your_name}\.{ide_name}{version}\config\filetypes`
 
 3. 重新启动 IDE，即可。
 
